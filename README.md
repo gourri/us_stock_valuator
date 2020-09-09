@@ -14,7 +14,7 @@
 * Add your naver address and password to send_email() if you want to receive the result automatically.
  ** https://github.com/gourri/us_stock_valuator/blob/a344dc516aeae77d2e98e635c458f256b36bae08/us_run.py#L299
   
-===========
+=======================================================================================
    
 ## 설정
   * 크롬 브라우저 설치
